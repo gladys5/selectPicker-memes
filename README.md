@@ -1,3 +1,14 @@
+## Este Repositorio tubo como proposito aprender como se puede descargar una imagen y editarla  colocandoles fraces graciosas para hacerlas meme, mas que nada para 
+pantallas moviles ya que en desktop pierden mucha calidad 
+
+## https://guileless-genie-f2b945.netlify.app
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
