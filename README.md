@@ -1,5 +1,4 @@
-## Este Repositorio tubo como proposito aprender como se puede descargar una imagen y editarla  colocandoles fraces graciosas para hacerlas meme, mas que nada para 
-## pantallas moviles ya que en desktop pierden mucha calidad 
+## Este Repositorio tubo como proposito aprender como se puede descargar una imagen y editarla  colocandoles fraces graciosas para hacerlas meme 
 
 ## https://guileless-genie-f2b945.netlify.app
 
