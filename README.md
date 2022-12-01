@@ -1,6 +1,5 @@
 ## Este Repositorio tubo como proposito aprender como se puede descargar una imagen y editarla  colocandoles fraces graciosas para hacerlas meme 
 
-## https://guileless-genie-f2b945.netlify.app
 
 
 
